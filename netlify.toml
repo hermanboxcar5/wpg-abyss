@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/rbr"
+  from = "/*"
   status = 200
-  to = "https://intoabyss.org/classes/math/hvtrs8%2F-rmcievbmtpo%7Bane%2Cwknveppkxgl%2Cim"
+  to = "https://intoabyss.org/classes/math/hvtrs8%2F-rmcievbmtpo%7Bane%2Cwknveppkxgl%2Cim/:splat"
   force = false
